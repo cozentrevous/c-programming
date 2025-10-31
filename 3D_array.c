@@ -38,4 +38,5 @@ int main(){
 	printf("\n");
 	printf("the total number of occupied rooms= %d\n",total);
 	return 0;
+
 }
